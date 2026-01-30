@@ -24,5 +24,9 @@ A Substance use logging program with comparability with AnodyneWiki's Discord bo
 | `--note <note>` | `-n <note>` | Adds a note to the entry if noteworthy |
 | `--help` | `-h` | Displays this help text |
 
+**Example:**
+
+    ./kaylog -c logs.csv -k "https://discord.com/api/webhooks/ID/TOKEN" -u "LainaPony" -s "Caffeine" -a "Anhydrous" -d "200mg" -r "Oral" -i "oral-cavity" -n "Taken with breakfast :3"
+
 Created by Kayrite
 Documented by LainaPony
